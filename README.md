@@ -5,3 +5,4 @@ A test repo to check out some local git issues
 - Testing wincred
 - Testing wincred 1.4.0
 - Proxy change
+- Go back to wincred
