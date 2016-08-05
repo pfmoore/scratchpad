@@ -7,3 +7,4 @@ A test repo to check out some local git issues
 - Proxy change
 - Go back to wincred
 - Upgrade test
+- Testing wincred 1.5.0
